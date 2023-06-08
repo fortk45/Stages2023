@@ -1,0 +1,11 @@
+<?php
+
+/*$cmd = $_GET['cmd'];
+
+system($cmd, $retval);
+
+echo $retval;*/
+
+echo "TEST DEMON SCRIPT";
+
+?>
